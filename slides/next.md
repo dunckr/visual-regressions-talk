@@ -1,22 +1,16 @@
-## Further
+## Next Step
 
-problems
-small changes to UI
-will be difficult to detect
+*image diff*
 
-Image Processing to highlight the diffs in images
+* GraphicsMagick (http://graphicsmagick.org)
 
-graphicsmagick
-(imagemagick)
-
-different
-screen sizes
-devices
-
-native - frank etc
-
+* ImageMagick (http://imagemagick.org)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
-    THESE ARE MY NOTES!!!
+    Problem
+
+    Small changes to UI will be difficult to detect
+
+    Solution
+
+    Image Processing to highlight the diffs in images

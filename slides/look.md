@@ -1,18 +1,16 @@
 ## Look and Feel
 
-Demo - A/B test example
-change copy and css
-
-Want:
-To know when something in the view changes
-To catch changes the break existing functionality/usability - such as hidden other elements
-
-Dont want:
-least amount of manual work
-no rewritting of acceptance tests
-
+*image changing css BEFORE*
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
-    THESE ARE MY NOTES!!!
+    Want:
+
+    To know when something in the view changes
+
+    To catch changes the break existing functionality/usability - such as hidden other elements
+
+    DONT want:
+
+    extra manual work
+
+    constant of rewritting of tests

@@ -1,16 +1,19 @@
-## Screenshot Capture Tools
+## Tools
 
+* Huxley (https://github.com/facebook/huxley)
 
-# Huxley (https://github.com/facebook/huxley)
-(Node port (https://github.com/chenglou/node-huxley))
-dis - brittle - moving things
+* Node Huxley (https://github.com/chenglou/node-huxley)
 
-# BBC Wraith (https://github.com/BBC-News/wraith/)
-# Using Selenium or PhantomJS to take screenshot
-adv - already written acceptance tests
+* PhantomCSS (https://github.com/Huddle/PhantomCSS)
 
+* BBC Wraith (https://github.com/BBC-News/wraith/)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
-    THESE ARE MY NOTES!!!
+    Huxley
+    record macros
+    Adv - easy to create
+    Dis - brittle
+
+    Others
+    Using Selenium or PhantomJS to take screenshot
+    adv - already written acceptance tests so less overhead

@@ -1,12 +1,12 @@
-### Visual Regression Testing
+# Visual Regression Testing
 
-we have our test stack:
-unit, integration and acceptance tests
-
-pretty comprehensive
-
-however, we are somethign missing...
-
+@dunckr
 
 note:
-    intro notes
+    we have our test stack:
+
+    unit, integration and acceptance tests
+
+    pretty comprehensive
+
+    however, we are missing something...

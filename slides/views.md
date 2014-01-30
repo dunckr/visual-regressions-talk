@@ -1,11 +1,10 @@
-## Where the views at?
-
-doesnt make sense to clutter up acceptance tests - these are end-to-end scenarios
-
-yes does this button exist
-no how does it appear
+## Think about the views
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
-    THESE ARE MY NOTES!!!
+    We are not testing them anywhere
+
+    Only place maybe would be the acceptance tests but then they would be very brittle
+
+    yes, does this button exist and can click it
+
+    but what we are NOT testing how does it appear on screen to the user
