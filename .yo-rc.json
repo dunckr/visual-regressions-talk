@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Visual Regressions",
+    "packageVersion": "0.0.1",
+    "useSass": true
+  }
+}
