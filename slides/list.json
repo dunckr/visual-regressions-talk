@@ -1,1 +1,10 @@
-["index.md"]
+[
+    "intro.md",
+    "views.md",
+    "look.md",
+    "tooling.md",
+    "git.md",
+    "next.md",
+    "info.md",
+    "test.md"
+]
