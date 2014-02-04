@@ -3,14 +3,18 @@
 *image of github image diff*
 
 note:
-    Workflow
+    real value is when we moved this process into git
 
-    take screenshots of our app during scenarios
+    so our workflow is
+    that screenshots of our app are taken during scenarios and committed
+    then if any subsequent change causes them to differ then they will appear as a diff
 
-    store them into git
-
-    these become part of our peer review
+    this is then included in the MR
+    and then these become part of our peer review
 
     dis - cost associated with checking these images
-
     adv - spot visual issues that are not covered by existing tests
+    dont make there way into production
+    faster QA cycle as fewer bugs are found
+    customers have more faith in product quality
+    side benefit - higlights leaks if random screens are breaking when you are working on separate feature

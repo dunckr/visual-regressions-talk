@@ -7,10 +7,16 @@
 * ImageMagick (http://imagemagick.org)
 
 note:
-    Problem
+    problem is small changes in the UI will be difficult to distinguish
+    when we are looking at the image diffs
+    something like a colon can will break the screenshots and we dont want to strain our eyes
 
-    Small changes to UI will be difficult to detect
+    solution is to use image processing to visually highlight the differences between images
+    making it more obvious and faster to check
 
-    Solution
+    future
+    different screen resolutions set in browser for testing responsive design
 
-    Image Processing to highlight the diffs in images
+    ultimately these can be run as part of our CI
+    notified of any broken screenshots just as you would any other breaking test
+    emails/growls etc

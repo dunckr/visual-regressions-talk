@@ -1,19 +1,19 @@
 ## Tools
 
-* Huxley (https://github.com/facebook/huxley)
+* Instagram Huxley (https://github.com/facebook/huxley)
 
 * Node Huxley (https://github.com/chenglou/node-huxley)
 
-* PhantomCSS (https://github.com/Huddle/PhantomCSS)
+* Huddle PhantomCSS (https://github.com/Huddle/PhantomCSS)
 
 * BBC Wraith (https://github.com/BBC-News/wraith/)
 
 note:
-    Huxley
-    record macros
-    Adv - easy to create
-    Dis - brittle
+    number of tools that are available to help us do this
+    huxley - slightly different and allows you to record macros
+    adv - easy to create
+    dis - moving elements around would cause them to break
 
-    Others
-    Using Selenium or PhantomJS to take screenshot
+    others
+    using Selenium or PhantomJS to take screenshot
     adv - already written acceptance tests so less overhead
