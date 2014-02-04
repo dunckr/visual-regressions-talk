@@ -1,6 +1,6 @@
 ## Look and Feel
 
-![image before](images/before.png "Image Before")
+![image after](images/after.png "Image After")
 
 note:
     Want:

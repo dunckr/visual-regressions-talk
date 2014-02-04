@@ -1,5 +1,7 @@
 ## Think about the views
 
+![image before](images/before.png "Image Before")
+
 note:
     you could argue that these are the most imporant part of the frontend
     they dont care if you have a bunch of spaghetti code or not
