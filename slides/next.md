@@ -2,6 +2,8 @@
 
 ![image diff](images/diff.png "Image Diff")
 
+### Image Comparsion
+
 * GitHub
 
 * GraphicsMagick (http://graphicsmagick.org)

@@ -2,6 +2,10 @@
 
 ![image git](images/git.png "Image Git")
 
+* Screenshots are included in Repo
+* MRs will include image diffs
+* Part of Peer review
+
 note:
     real value is when we moved this process into git
 

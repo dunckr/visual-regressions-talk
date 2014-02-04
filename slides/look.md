@@ -2,6 +2,13 @@
 
 ![image after](images/after.png "Image After")
 
+* Want
+    * Notified of appearance changes
+    * Find regressions
+* Don't want
+    * Overhead
+    * Brittle
+
 note:
     Want:
     to be notified when something in the view changes

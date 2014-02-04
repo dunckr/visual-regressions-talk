@@ -2,7 +2,13 @@
 
 ![image before](images/before.png "Image Before")
 
+* Why?
+* Where?
+* What?
+
 note:
+    example I have dogecoin - why not?
+
     you could argue that these are the most imporant part of the frontend
     they dont care if you have a bunch of spaghetti code or not
 
