@@ -1,6 +1,6 @@
 ## Git?!
 
-*image of github image diff*
+![image git](images/git.png "Image Git")
 
 note:
     real value is when we moved this process into git

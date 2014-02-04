@@ -1,6 +1,6 @@
 ## Next Step
 
-*image diff*
+![image diff](images/diff.png "Image Diff")
 
 * GraphicsMagick (http://graphicsmagick.org)
 

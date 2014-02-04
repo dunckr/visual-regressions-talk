@@ -1,6 +1,6 @@
 ## Look and Feel
 
-*image changing css BEFORE*
+![image before](images/before.png "Image Before")
 
 note:
     Want:
